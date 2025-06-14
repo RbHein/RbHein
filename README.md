@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
 - 🧑‍🚀 I’m currently working on Solutio | XP Inc.
-- 💻 I´m currently studying Computer Science
-- 🔭 I’m currently learning C++ and Python
+- 💻 Computer Science 5/8
+- 🔭 Developing in Python and JavaScript
 - 📸 Instagram: @heinrafael
