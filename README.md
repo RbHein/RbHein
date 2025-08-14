@@ -1,4 +1,5 @@
 ### Hi there! 👋 ![XP Inc.](https://img.shields.io/badge/XP%20Inc.-000000?style=for-the-badge&logo=xpinc&logoColor=white)
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/XP_Inc_logo.svg" alt="XP Inc." width="100"/>
 
 
 - 🧑‍🚀 I’m currently working on Solutio | XP Inc.
