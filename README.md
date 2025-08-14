@@ -1,4 +1,5 @@
-### Hi there! 👋
+### Hi there! 👋 ![XP Inc.](https://img.shields.io/badge/XP%20Inc.-000000?style=for-the-badge&logo=xpinc&logoColor=white)
+
 
 - 🧑‍🚀 I’m currently working on Solutio | XP Inc.
 - 💻 Computer Science 6/8
