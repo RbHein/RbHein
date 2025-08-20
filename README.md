@@ -42,3 +42,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" alt="German" width="50" style="margin-right: 5px;"/>
 </p>
 </p>
+
+## 📊 GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rbhein&show_icons=true&theme=tokyonight&hide_border=true)
+
+
