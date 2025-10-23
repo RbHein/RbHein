@@ -38,7 +38,7 @@
 **Languages**
 <p align="left">
   <img src="https://www.gov.br/planalto/pt-br/conheca-a-presidencia/biblioteca-da-pr/simbolos-nacionais/bandeira/bandeiranacionalbrasil_.jpg" alt="Portuguese" width="50" style="margin-right: 5px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Flag_of_the_United_States_%28Web_Colors%29.svg/1920px-Flag_of_the_United_States_%28Web_Colors%29.svg.png" alt="English" width="50" style="margin-right: 5px;"/>
+  <img src="https://www.gov.br/agricultura/pt-br/assuntos/relacoes-internacionais/agro-mais-investimentos/imagens/bandeira-dos-estados-unidos.png/@@images/image.png" alt="English" width="50" style="margin-right: 5px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png" alt="German" width="50" style="margin-right: 5px;"/>
 </p>
 </p>
