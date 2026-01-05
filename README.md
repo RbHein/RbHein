@@ -40,7 +40,5 @@
 </p>
 </p>
 
-## 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=rbhein&show_icons=true&theme=tokyonight&hide_border=true)
 
 
