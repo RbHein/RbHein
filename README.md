@@ -2,7 +2,7 @@
 
 - 🧑‍🚀 I’m currently working on Solutio | XP Inc.
 - 💻 Computer Science 7/8
-- 🔭 Developing in Python, React and Node.js
+- 🔭 Developing in React and Node.js and Python
 - 📸 Instagram: @heinrafael
 
 ---
