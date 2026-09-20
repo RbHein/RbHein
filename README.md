@@ -1,6 +1,6 @@
 ### 🇧🇷 Olá!
 ### 🇺🇸 Hello!
-### 🇩🇪🇨🇭 Hallo!
+### 🇩🇪 Hallo!
 
 - 🧑‍🚀 I’m currently working on Solutio | XP Inc.
 - 💻 Computer Science 8/8
@@ -20,7 +20,7 @@
 **Academic**
 <p align="left">
 <img src="https://obs.unochapeco.edu.br/system/parceiros/imgs/000/000/001/medio/Novo%20Projeto.jpg?1693328744" alt="Uno" width="70" style="margin-right:10px;"/>
-<img src="https://utfpr-ct-static-content.s3.amazonaws.com/utfpr.curitiba.br/wp-content/uploads/sites/7/2019/11/utfpr1.png" alt="UTFPR" width="70" style="margin-right:10px;"/>
+<img src="https://www.utfpr.edu.br/icones/cabecalho/logo-utfpr/@@images/image-1024-7e52a971b4bf99a543aedf43530f5414.png" alt="UTFPR" width="70" style="margin-right:10px;"/>
 </p>
 
 **Tools**
@@ -30,7 +30,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" style="margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" style="margin-right: 5px;"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" style="margin-right: 5px;"/>
 </p>
 
