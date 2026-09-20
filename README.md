@@ -1,4 +1,6 @@
-### Hi there! 👋
+### 🇧🇷 Olá!
+### 🇺🇸 Hello!
+### 🇩🇪🇨🇭 Hallo!
 
 - 🧑‍🚀 I’m currently working on Solutio | XP Inc.
 - 💻 Computer Science 8/8
