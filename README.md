@@ -14,10 +14,10 @@
 <!-- ====================== ABOUT ====================== -->
 ## 👨‍💻 About me
 
+- 🚀 Founder of **Unofertas** and **Solutio Orion**
 - 🧑‍🚀 Currently working at **Solutio | XP Inc.**
 - 💻 **Computer Science** — 8/8 semesters
 - 🔭 Developing with **React**, **Node.js** and **JavaScript**
-- 📸 Instagram: [@heinrafael](https://instagram.com/heinrafael)
 
 <p align="left">
   <a href="https://instagram.com/heinrafael">
@@ -39,12 +39,12 @@
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://www.xpinc.com/wp-content/uploads/sites/6/2023/08/XP.png" alt="XP Inc." width="64" height="64"/><br/>
+    <td align="center" width="140">
+      <img src="https://www.xpinc.com/wp-content/uploads/sites/6/2023/08/XP.png" alt="XP Inc." width="100"/><br/>
       <sub><b>XP Inc.</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://solutioinvestimentos.com.br/wp-content/uploads/2022/10/perfil-v1.jpg" alt="Solutio" width="64" height="64"/><br/>
+    <td align="center" width="140">
+      <img src="https://solutioinvestimentos.com.br/wp-content/uploads/2022/10/perfil-v1.jpg" alt="Solutio" width="100"/><br/>
       <sub><b>Solutio</b></sub>
     </td>
   </tr>
@@ -57,12 +57,12 @@
 
 <table>
   <tr>
-    <td align="center" width="110">
-      <img src="https://obs.unochapeco.edu.br/system/parceiros/imgs/000/000/001/medio/Novo%20Projeto.jpg?1693328744" alt="Unochapecó" width="74" height="64"/><br/>
+    <td align="center" width="140">
+      <img src="https://obs.unochapeco.edu.br/system/parceiros/imgs/000/000/001/medio/Novo%20Projeto.jpg?1693328744" alt="Unochapecó" width="100"/><br/>
       <sub><b>Unochapecó</b></sub>
     </td>
-    <td align="center" width="110">
-      <img src="https://www.utfpr.edu.br/icones/cabecalho/logo-utfpr/@@images/image-1024-7e52a971b4bf99a543aedf43530f5414.png" alt="UTFPR" width="74" height="64"/><br/>
+    <td align="center" width="140">
+      <img src="https://www.utfpr.edu.br/icones/cabecalho/logo-utfpr/@@images/image-1024-7e52a971b4bf99a543aedf43530f5414.png" alt="UTFPR" width="100"/><br/>
       <sub><b>UTFPR</b></sub>
     </td>
   </tr>
@@ -78,10 +78,10 @@
 ## 🛠️ Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 </p>
 
